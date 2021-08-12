@@ -2,3 +2,19 @@
     margin-left: auto;
     margin-right: 0 !important;
   }
+
+  #home {
+    color: #B57BFF;
+}
+#why {
+    color: #F3BB1C;
+}
+#parents {
+    color: #5EC85D;
+}
+#cook {
+    color: #F03738;
+}
+#account {
+    color: #3E66FB;
+} 
