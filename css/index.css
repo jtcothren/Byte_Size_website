@@ -12,7 +12,16 @@
    .nav-item {
     margin: 0px 15px;
    }
-   
+   .carouselButton1{
+    background-color:#F03738 !important;
+} 
+
+.carouselButton2{
+    background-color:#f3bb1c !important;
+    color:black !important;
+} 
+
+
 
 body{
     background-color: black;
