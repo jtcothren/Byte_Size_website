@@ -3,8 +3,17 @@
     margin-right: 0 !important;
   }
   .navbar{
-      background-color: black;
+      background-color: black !important;
   }
+   .navbar-brand{
+      padding-right: 15px;
+      
+   }
+   .nav-item {
+    margin: 0px 15px;
+   }
+   
+
 body{
     background-color: black;
 }
