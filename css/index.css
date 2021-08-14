@@ -4,6 +4,7 @@
   }
   .navbar{
       background-color: black !important;
+      font-size: .50cm;
   }
    .navbar-brand{
       padding-right: 15px;
@@ -28,7 +29,9 @@
     float:left;
     padding-right: 30px;
 }
-
+.featurette-divider{
+    background-color: white;
+}
 body{
     background-color: black;
 }
