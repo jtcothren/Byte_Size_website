@@ -4,6 +4,7 @@
   }
   .navbar{
       background-color: black !important;
+      font-size: .50cm;
   }
    .navbar-brand{
       padding-right: 15px;
@@ -21,8 +22,16 @@
     color:black !important;
 } 
 
-
-
+.bannerBlock{
+    height: 375px;
+}
+.topBannerImg{
+    float:left;
+    padding-right: 30px;
+}
+.featurette-divider{
+    background-color: white;
+}
 body{
     background-color: black;
 }
@@ -109,6 +118,7 @@ body{
     margin: 35px auto;
     padding: 45px;
     border: 1px solid #F2F2F2;
+    border-radius: 20px;
     -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
     -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 0 40px rgba(0, 0, 0, 0.1);
