@@ -21,7 +21,13 @@
     color:black !important;
 } 
 
-
+.bannerBlock{
+    height: 375px;
+}
+.topBannerImg{
+    float:left;
+    padding-right: 30px;
+}
 
 body{
     background-color: black;
