@@ -51,6 +51,36 @@ body{
     font-family: 'Indie Flower', cursive;
     color:#3E66FB;
 }
+/**Divider**/
+.featurette-divider {
+    background-color: white;
+}
+
+/****Parents & teachers page***/
+.MyParentTab {
+    background-color: #5EC85D;
+}
+
+.quotes {
+    font-size: 36px;
+}
+
+#ptquotes {
+    font-size: 36px;
+}
+
+#pttimage {
+    align-content: flex-end;
+    justify-content: center;
+}
+/**#tabButton1 {
+    align-content: center;
+}
+
+/**Quotes sections**/
+.row quote {
+    margin-top: 50px;
+}
 
 /**** log in page ******/
 
