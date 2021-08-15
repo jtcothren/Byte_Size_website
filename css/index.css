@@ -32,6 +32,14 @@
 .featurette-divider{
     background-color: white;
 }
+.greenParents{
+    background-color: #5EC85D !important;
+}
+
+.yellowEducators{
+    background-color: #FFCC00 !important;
+}
+
 body{
     background-color: black;
 }
