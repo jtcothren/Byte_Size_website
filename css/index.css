@@ -21,6 +21,10 @@
     padding-inline-start: 120px;
 }
 
+.cookDemo{
+    padding-inline-start: 50px;
+}
+
 .carouselButton2{
     background-color:#f3bb1c !important;
     color:black !important;
